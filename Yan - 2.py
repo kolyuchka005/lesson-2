@@ -6,3 +6,7 @@ name="Yan"
 temp=f"hello,{name}"
 print(temp)
 
+
+name="Yan"
+temp=f"hello,{name}"
+print(temp)
